@@ -11,13 +11,15 @@
       { "id": 9, "title": "Post 9" }
     ],
     "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 },
-      { "id": 3, "body": "some comment", "postId": 3 },
-      { "id": 4, "body": "some comment", "postId": 2 },
-      { "id": 5, "body": "some comment", "postId": 5 },
-      { "id": 6, "body": "some comment", "postId": 6 },
-      { "id": 7, "body": "some comment", "postId": 8 }
+      { "id": 1, "body": "some comment 1", "postId": 1 },
+      { "id": 2, "body": "some comment 2", "postId": 1 },
+      { "id": 3, "body": "some comment 3", "postId": 3 },
+      { "id": 4, "body": "some comment 4", "postId": 2 },
+      { "id": 5, "body": "some comment 5", "postId": 5 },
+      { "id": 6, "body": "some comment 6", "postId": 6 },
+      { "id": 7, "body": "some comment 7", "postId": 8 },
+      { "id": 8, "body": "some comment 8", "postId": 7 },
+      { "id": 9, "body": "some comment 9", "postId": 9 },
     ],
     "profile": {
       "name": "trg"
