@@ -19,7 +19,7 @@
       { "id": 6, "body": "some comment 6", "postId": 6 },
       { "id": 7, "body": "some comment 7", "postId": 8 },
       { "id": 8, "body": "some comment 8", "postId": 7 },
-      { "id": 9, "body": "some comment 9", "postId": 9 },
+      { "id": 9, "body": "some comment 9", "postId": 9 }
     ],
     "profile": {
       "name": "trg"
