@@ -2,25 +2,44 @@
     "posts": [
       {
         "id": 1,
-        "title": "Post 1"
+        "title": "Post 1",
+        "userId": 2
       },
       {
         "id": 2,
-        "title": "Post 2"
+        "title": "Post 2",
+        "userId": 1
       },
       {
         "id": 3,
-        "title": "Post 3"
+        "title": "Post 3",
+        "userId": 3
       },
       {
         "id": 4,
-        "title": "Post 4"
+        "title": "Post 4",
+        "userId": 1
       },
       {
         "id": 5,
-        "title": "Post 5"
+        "title": "Post 5",
+        "userId": 3
       }
     ],
+    "users": [
+        {
+          "id": 1,
+          "name": "Mike"
+        },
+        {
+          "id": 2,
+          "name": "Joy"
+        },
+        {
+          "id": 3,
+          "name": "Harry"
+        }
+      ],
     "comments": [
       {
         "id": 1,
