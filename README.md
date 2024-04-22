@@ -9,3 +9,6 @@ https://www.youtube.com/watch?v=ypKHnRmPOUk
 
 JP - 入門用動画
 https://www.youtube.com/watch?v=Z6-jgPbiX1E
+
+Test Script for Postman 
+https://learning.postman.com/docs/writing-scripts/test-scripts/
