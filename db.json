@@ -64,5 +64,86 @@
     ],
     "profile": {
       "name": "typicode"
+    },
+    "family": [
+    {
+        "id": 1,
+        "country": "Japan",
+        "prefecture": "Tokyo",
+        "name": "Takuya Tanaka",
+        "age": 34,
+        "family_count": 3,
+        "family": [
+            {
+                "name": "Yuki Tanaka",
+                "relation": "wife",
+                "age": 32
+            },
+            {
+                "name": "Haruto Tanaka",
+                "relation": "son",
+                "age": 5
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "country": "USA",
+        "prefecture": "California",
+        "name": "Emily Smith",
+        "age": 28,
+        "family_count": 1,
+        "family": []
+    },
+    {
+        "id": 3,
+        "country": "Japan",
+        "prefecture": "Osaka",
+        "name": "John Suzuki",
+        "age": 45,
+        "family_count": 2,
+        "family": [
+            {
+                "name": "Ann Suzuki",
+                "relation": "daughter",
+                "age": 15
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "country": "USA",
+        "prefecture": "New York",
+        "name": "James Brown",
+        "age": 50,
+        "family_count": 6,
+        "family": [
+            {
+                "name": "Sophia  Brown",
+                "relation": "wife",
+                "age": 52
+            }
+            {
+                "name": "Sophia  Brown",
+                "relation": "daughter",
+                "age": 30
+            }
+            {
+                "name": "Sophia  Brown",
+                "relation": "son",
+                "age": 27
+            }
+            {
+                "name": "Sophia  Brown",
+                "relation": "daughter",
+                "age": 18
+            }
+            {
+                "name": "Sophia  Brown",
+                "relation": "daughter",
+                "age": 15
+            }
+        ]
     }
+  ]
 }
